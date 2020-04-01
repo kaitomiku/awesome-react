@@ -169,11 +169,14 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
+- [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
+- [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
 
 ##### React Frameworks
 
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+- [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 
 ##### React Styling
 
@@ -201,6 +204,14 @@ A collection of awesome things regarding the React ecosystem.
 - [reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
+- [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
+- [primereact](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes.
+- [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
+- [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
+- [rbx](https://github.com/dfee/rbx) - The Comprehensive Bulma UI Framework for React
+- [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
+- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
+- [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
 
 ##### React Awesome Components
 
@@ -234,6 +245,8 @@ A collection of awesome things regarding the React ecosystem.
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 ##### React for Command Line
 
@@ -265,6 +278,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 - [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
 - [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
+- [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 - [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
 - [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 - [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
@@ -272,11 +286,10 @@ A collection of awesome things regarding the React ecosystem.
 - [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
 - [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
 - [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
-- [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 - [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
-- [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
+- [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications](https://github.com/Autodesk/clearx)
 - [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
@@ -288,6 +301,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
+- [universal-model-react](https://github.com/universal-model/universal-model-react) - Unified state management solution for React
 
 ##### React Integration
 
@@ -338,6 +352,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 - [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
 - [aframe-react - A-Frame VR + React](https://github.com/ngokevin/aframe)
+- [react-three-fiber - A react reconciler for threejs (web and react-native)](https://github.com/react-spring/react-three-fiber)
 - [react-three - React bindings to create and control a 3D scene using three.js](https://github.com/Izzimach/react-three)
 - [react-three-renderer - Render into a three.js canvas using React](https://github.com/toxicFork/react-three-renderer)
 - [react-threejs - Simplest bindings between React & Three.js](https://github.com/fritx/react-threejs)
@@ -383,6 +398,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 - [Formal - Elegant form management primitives for the react hooks era](https://github.com/iamkevinwolf/formal)
+- [react-hook-form - Performant, flexible and extensible forms with easy to use validation](https://github.com/react-hook-form/react-hook-form)
 
 ##### Autocomplete
 
@@ -426,6 +442,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ReSub - A library for writing better React components and data stores](https://github.com/Microsoft/ReSub)
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
+- [RxDB - A realtime Database for JavaScript Applications](https://github.com/pubkey/rxdb)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
@@ -766,7 +783,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
-- [dnote](https://github.com/dnote/dnote) - A simple personal knowledge base
 
 ---
 
@@ -778,11 +794,12 @@ A collection of awesome things regarding the React ecosystem.
 - [mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
+- [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
 
 ---
 
 ### Contribution
 
-This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
+This list started as personal collection of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
